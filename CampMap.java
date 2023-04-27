@@ -7,7 +7,7 @@ import javax.swing.*;
 
 public class CampMap {
     JFrame frame;
-    int coordinates[][] = { { 275, 600 }, { 500, 350 }, { 610, 580 }, { 880, 360 }, { 605, 345 },{ 270, 160 },{ 410, 520 },{ 710, 430 },{ 485, 180 },{ 480, 640 },{ 440,450} }; // { 275, 600 }
+    int coordinates[][] = { { 275, 600 }, { 500, 350 }, { 610, 580 }, { 880, 360 }, { 605, 345 },{ 270, 160 },{ 410, 520 },{ 710, 430 },{ 485, 180 },{ 480, 640 },{ 440,450} }; 
     String places[] = { "Cricket Ground", "Library", "OAT", "Shopping", "Admin Block",
             "MBH", "Basketball Ground", "IT Building", "Yadav Canteen", "Sports Complex", "SAC" };
     BufferedImage image = null, image2;
